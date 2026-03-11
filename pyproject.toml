@@ -1,0 +1,10 @@
+[project]
+name = "agentlens"
+version = "0.1.0"
+description = "Observability for AI Agents"
+authors = [{name="Yao"}]
+dependencies = []
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
